@@ -31,7 +31,7 @@
             "java": "app.java"
         },
         "suggestions": {
-            "agent": "vscode"
+            "agent": null
         },
         "warnings": {
             "agent": null
@@ -123,5 +123,5 @@
     "bugsLink": null,
     "videoSolutions": false,
     "localhostOnly": false,
-    "session": 2044490805065564200
+    "session": 3765617365690388000
 }
